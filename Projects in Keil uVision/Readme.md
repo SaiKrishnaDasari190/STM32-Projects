@@ -5,6 +5,6 @@ Each Project Consists of Documentation ,Firmware ,and Hardware Folders
 
 __Documentation :__ This folder consists of Block diagram,Flow chart,Input & Outputs and breif Description about the Project
 
-__Firmware :__ This floder consists of the Program files consists of codes 
+__Firmware :__ This folder consists of the Program files consists of codes 
 
-__Hardware :__ This floder consists of Hardware design of the project in an IDE if not possible a video related to the hardware of the project
+__Hardware :__ This folder consists of Hardware design of the project in an IDE if not possible a video related to the hardware of the project
