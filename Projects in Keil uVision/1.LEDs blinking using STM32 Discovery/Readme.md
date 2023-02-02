@@ -9,8 +9,8 @@ The LEDs are numbered from 0 to 3 (i.e 0,1,2,3 )
 
 Accordingly we need to write the Code
 
-Documentation folder: Consits of a PDF which describes the block diagram, Description , and Flow chart for the Project
+__Documentation folder:__ Consits of a PDF which describes the block diagram, Description , and Flow chart for the Project
 
-Firmware folder: Consits of Program Code in Keil uVision using C programming Language
+__Firmware folder:__ Consits of Program Code in Keil uVision using C programming Language
 
-Hardware folder: Consists of the Images/Videos/Circuit Diagrams of the Hardware of STM32 Outputs
+__Hardware folder:__ Consists of the Images/Videos/Circuit Diagrams of the Hardware of STM32 Outputs
